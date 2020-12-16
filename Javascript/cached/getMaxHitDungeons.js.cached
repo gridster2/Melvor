@@ -1,0 +1,2152 @@
+[
+    {
+        "dungeon": "Chicken Coop",
+        "monsters": [
+            {
+                "id": 37,
+                "maxHits": {
+                    "magic": 0,
+                    "melee": 11,
+                    "ranged": 0
+                },
+                "name": "Chicken"
+            },
+            {
+                "id": 37,
+                "maxHits": {
+                    "magic": 0,
+                    "melee": 11,
+                    "ranged": 0
+                },
+                "name": "Chicken"
+            },
+            {
+                "id": 37,
+                "maxHits": {
+                    "magic": 0,
+                    "melee": 11,
+                    "ranged": 0
+                },
+                "name": "Chicken"
+            },
+            {
+                "id": 37,
+                "maxHits": {
+                    "magic": 0,
+                    "melee": 11,
+                    "ranged": 0
+                },
+                "name": "Chicken"
+            },
+            {
+                "id": 39,
+                "maxHits": {
+                    "magic": 0,
+                    "melee": 10,
+                    "ranged": 0
+                },
+                "name": "Chick"
+            },
+            {
+                "id": 40,
+                "maxHits": {
+                    "magic": 0,
+                    "melee": 52,
+                    "ranged": 0
+                },
+                "name": "Mumma Chicken"
+            }
+        ]
+    },
+    {
+        "dungeon": "Undead Graveyard",
+        "monsters": [
+            {
+                "id": 59,
+                "maxHits": {
+                    "magic": 0,
+                    "melee": 42,
+                    "ranged": 0
+                },
+                "name": "Zombie Hand"
+            },
+            {
+                "id": 59,
+                "maxHits": {
+                    "magic": 0,
+                    "melee": 42,
+                    "ranged": 0
+                },
+                "name": "Zombie Hand"
+            },
+            {
+                "id": 59,
+                "maxHits": {
+                    "magic": 0,
+                    "melee": 42,
+                    "ranged": 0
+                },
+                "name": "Zombie Hand"
+            },
+            {
+                "id": 60,
+                "maxHits": {
+                    "magic": 0,
+                    "melee": 52,
+                    "ranged": 0
+                },
+                "name": "Zombie"
+            },
+            {
+                "id": 60,
+                "maxHits": {
+                    "magic": 0,
+                    "melee": 52,
+                    "ranged": 0
+                },
+                "name": "Zombie"
+            },
+            {
+                "id": 60,
+                "maxHits": {
+                    "magic": 0,
+                    "melee": 52,
+                    "ranged": 0
+                },
+                "name": "Zombie"
+            },
+            {
+                "id": 62,
+                "maxHits": {
+                    "magic": 0,
+                    "melee": 62,
+                    "ranged": 0
+                },
+                "name": "Ghost"
+            },
+            {
+                "id": 61,
+                "maxHits": {
+                    "magic": 0,
+                    "melee": 106,
+                    "ranged": 0
+                },
+                "name": "Zombie Leader"
+            }
+        ]
+    },
+    {
+        "dungeon": "Spider Forest",
+        "monsters": [
+            {
+                "id": 50,
+                "maxHits": {
+                    "magic": 0,
+                    "melee": 72,
+                    "ranged": 0
+                },
+                "name": "Spider"
+            },
+            {
+                "id": 51,
+                "maxHits": {
+                    "magic": 0,
+                    "melee": 72,
+                    "ranged": 0
+                },
+                "name": "Spider"
+            },
+            {
+                "id": 50,
+                "maxHits": {
+                    "magic": 0,
+                    "melee": 72,
+                    "ranged": 0
+                },
+                "name": "Spider"
+            },
+            {
+                "id": 51,
+                "maxHits": {
+                    "magic": 0,
+                    "melee": 72,
+                    "ranged": 0
+                },
+                "name": "Spider"
+            },
+            {
+                "id": 50,
+                "maxHits": {
+                    "magic": 0,
+                    "melee": 72,
+                    "ranged": 0
+                },
+                "name": "Spider"
+            },
+            {
+                "id": 52,
+                "maxHits": {
+                    "magic": 0,
+                    "melee": 102,
+                    "ranged": 0
+                },
+                "name": "Evil Spider"
+            },
+            {
+                "id": 52,
+                "maxHits": {
+                    "magic": 0,
+                    "melee": 102,
+                    "ranged": 0
+                },
+                "name": "Evil Spider"
+            },
+            {
+                "id": 53,
+                "maxHits": {
+                    "magic": 0,
+                    "melee": 142,
+                    "ranged": 0
+                },
+                "name": "Spider King"
+            }
+        ]
+    },
+    {
+        "dungeon": "Frozen Cove",
+        "monsters": [
+            {
+                "id": 54,
+                "maxHits": {
+                    "magic": 0,
+                    "melee": 92,
+                    "ranged": 0
+                },
+                "name": "Ice Monster"
+            },
+            {
+                "id": 54,
+                "maxHits": {
+                    "magic": 0,
+                    "melee": 92,
+                    "ranged": 0
+                },
+                "name": "Ice Monster"
+            },
+            {
+                "id": 54,
+                "maxHits": {
+                    "magic": 0,
+                    "melee": 92,
+                    "ranged": 0
+                },
+                "name": "Ice Monster"
+            },
+            {
+                "id": 55,
+                "maxHits": {
+                    "magic": 0,
+                    "melee": 102,
+                    "ranged": 0
+                },
+                "name": "Ice Troll"
+            },
+            {
+                "id": 55,
+                "maxHits": {
+                    "magic": 0,
+                    "melee": 102,
+                    "ranged": 0
+                },
+                "name": "Ice Troll"
+            },
+            {
+                "id": 55,
+                "maxHits": {
+                    "magic": 0,
+                    "melee": 102,
+                    "ranged": 0
+                },
+                "name": "Ice Troll"
+            },
+            {
+                "id": 56,
+                "maxHits": {
+                    "magic": 0,
+                    "melee": 102,
+                    "ranged": 0
+                },
+                "name": "Ice"
+            },
+            {
+                "id": 57,
+                "maxHits": {
+                    "magic": 0,
+                    "melee": 172,
+                    "ranged": 0
+                },
+                "name": "Protector of Ice"
+            }
+        ]
+    },
+    {
+        "dungeon": "Deep Sea Ship",
+        "monsters": [
+            {
+                "id": 41,
+                "maxHits": {
+                    "magic": 0,
+                    "melee": 84,
+                    "ranged": 0
+                },
+                "name": "Pirate"
+            },
+            {
+                "id": 41,
+                "maxHits": {
+                    "magic": 0,
+                    "melee": 84,
+                    "ranged": 0
+                },
+                "name": "Pirate"
+            },
+            {
+                "id": 41,
+                "maxHits": {
+                    "magic": 0,
+                    "melee": 84,
+                    "ranged": 0
+                },
+                "name": "Pirate"
+            },
+            {
+                "id": 41,
+                "maxHits": {
+                    "magic": 0,
+                    "melee": 84,
+                    "ranged": 0
+                },
+                "name": "Pirate"
+            },
+            {
+                "id": 41,
+                "maxHits": {
+                    "magic": 0,
+                    "melee": 84,
+                    "ranged": 0
+                },
+                "name": "Pirate"
+            },
+            {
+                "id": 41,
+                "maxHits": {
+                    "magic": 0,
+                    "melee": 84,
+                    "ranged": 0
+                },
+                "name": "Pirate"
+            },
+            {
+                "id": 41,
+                "maxHits": {
+                    "magic": 0,
+                    "melee": 84,
+                    "ranged": 0
+                },
+                "name": "Pirate"
+            },
+            {
+                "id": 58,
+                "maxHits": {
+                    "magic": 0,
+                    "melee": 131,
+                    "ranged": 0
+                },
+                "name": "First Mate"
+            },
+            {
+                "id": 42,
+                "maxHits": {
+                    "magic": 0,
+                    "melee": 177,
+                    "ranged": 0
+                },
+                "name": "Pirate Captain"
+            },
+            {
+                "id": 43,
+                "maxHits": {
+                    "magic": 0,
+                    "melee": 204,
+                    "ranged": 0
+                },
+                "name": "The Kraken"
+            }
+        ]
+    },
+    {
+        "dungeon": "Volcanic Cave",
+        "monsters": [
+            {
+                "id": 44,
+                "maxHits": {
+                    "magic": 0,
+                    "melee": 52,
+                    "ranged": 0
+                },
+                "name": "Bat"
+            },
+            {
+                "id": 45,
+                "maxHits": {
+                    "magic": 0,
+                    "melee": 82,
+                    "ranged": 0
+                },
+                "name": "Big Bat"
+            },
+            {
+                "id": 46,
+                "maxHits": {
+                    "magic": 140,
+                    "melee": 0,
+                    "ranged": 0
+                },
+                "name": "The Eye"
+            },
+            {
+                "id": 47,
+                "maxHits": {
+                    "magic": 240,
+                    "melee": 0,
+                    "ranged": 0
+                },
+                "name": "Resurrected Eye"
+            },
+            {
+                "id": 83,
+                "maxHits": {
+                    "magic": 0,
+                    "melee": 0,
+                    "ranged": 282
+                },
+                "name": "Vicious Serpent"
+            },
+            {
+                "id": 84,
+                "maxHits": {
+                    "magic": 340,
+                    "melee": 0,
+                    "ranged": 0
+                },
+                "name": "Fire Spirit"
+            },
+            {
+                "id": 48,
+                "maxHits": {
+                    "magic": 0,
+                    "melee": 0,
+                    "ranged": 501
+                },
+                "name": "Prat, the Protector of Secrets"
+            },
+            {
+                "id": 49,
+                "maxHits": {
+                    "magic": 0,
+                    "melee": 520,
+                    "ranged": 0
+                },
+                "name": "Malcs, the Guardian of Melvor"
+            }
+        ]
+    },
+    {
+        "dungeon": "Bandit Base",
+        "monsters": [
+            {
+                "id": 75,
+                "maxHits": {
+                    "magic": 0,
+                    "melee": 0,
+                    "ranged": 42
+                },
+                "name": "Bandit Trainee"
+            },
+            {
+                "id": 75,
+                "maxHits": {
+                    "magic": 0,
+                    "melee": 0,
+                    "ranged": 42
+                },
+                "name": "Bandit Trainee"
+            },
+            {
+                "id": 75,
+                "maxHits": {
+                    "magic": 0,
+                    "melee": 0,
+                    "ranged": 42
+                },
+                "name": "Bandit Trainee"
+            },
+            {
+                "id": 76,
+                "maxHits": {
+                    "magic": 0,
+                    "melee": 0,
+                    "ranged": 82
+                },
+                "name": "Bandit"
+            },
+            {
+                "id": 76,
+                "maxHits": {
+                    "magic": 0,
+                    "melee": 0,
+                    "ranged": 82
+                },
+                "name": "Bandit"
+            },
+            {
+                "id": 76,
+                "maxHits": {
+                    "magic": 0,
+                    "melee": 0,
+                    "ranged": 82
+                },
+                "name": "Bandit"
+            },
+            {
+                "id": 77,
+                "maxHits": {
+                    "magic": 0,
+                    "melee": 0,
+                    "ranged": 174
+                },
+                "name": "Bandit Leader"
+            }
+        ]
+    },
+    {
+        "dungeon": "Hall of Wizards",
+        "monsters": [
+            {
+                "id": 70,
+                "maxHits": {
+                    "magic": 120,
+                    "melee": 0,
+                    "ranged": 0
+                },
+                "name": "Wizard"
+            },
+            {
+                "id": 70,
+                "maxHits": {
+                    "magic": 120,
+                    "melee": 0,
+                    "ranged": 0
+                },
+                "name": "Wizard"
+            },
+            {
+                "id": 70,
+                "maxHits": {
+                    "magic": 120,
+                    "melee": 0,
+                    "ranged": 0
+                },
+                "name": "Wizard"
+            },
+            {
+                "id": 79,
+                "maxHits": {
+                    "magic": 170,
+                    "melee": 0,
+                    "ranged": 0
+                },
+                "name": "Master Wizard"
+            },
+            {
+                "id": 79,
+                "maxHits": {
+                    "magic": 170,
+                    "melee": 0,
+                    "ranged": 0
+                },
+                "name": "Master Wizard"
+            },
+            {
+                "id": 79,
+                "maxHits": {
+                    "magic": 170,
+                    "melee": 0,
+                    "ranged": 0
+                },
+                "name": "Master Wizard"
+            },
+            {
+                "id": 78,
+                "maxHits": {
+                    "magic": 210,
+                    "melee": 0,
+                    "ranged": 0
+                },
+                "name": "Dark Wizard"
+            },
+            {
+                "id": 78,
+                "maxHits": {
+                    "magic": 210,
+                    "melee": 0,
+                    "ranged": 0
+                },
+                "name": "Dark Wizard"
+            },
+            {
+                "id": 80,
+                "maxHits": {
+                    "magic": 210,
+                    "melee": 0,
+                    "ranged": 0
+                },
+                "name": "Elder Wizard"
+            }
+        ]
+    },
+    {
+        "dungeon": "Air God Dungeon",
+        "monsters": [
+            {
+                "id": 85,
+                "maxHits": {
+                    "magic": 0,
+                    "melee": 0,
+                    "ranged": 340
+                },
+                "name": "Air Guard"
+            },
+            {
+                "id": 85,
+                "maxHits": {
+                    "magic": 0,
+                    "melee": 0,
+                    "ranged": 340
+                },
+                "name": "Air Guard"
+            },
+            {
+                "id": 85,
+                "maxHits": {
+                    "magic": 0,
+                    "melee": 0,
+                    "ranged": 340
+                },
+                "name": "Air Guard"
+            },
+            {
+                "id": 85,
+                "maxHits": {
+                    "magic": 0,
+                    "melee": 0,
+                    "ranged": 340
+                },
+                "name": "Air Guard"
+            },
+            {
+                "id": 85,
+                "maxHits": {
+                    "magic": 0,
+                    "melee": 0,
+                    "ranged": 340
+                },
+                "name": "Air Guard"
+            },
+            {
+                "id": 85,
+                "maxHits": {
+                    "magic": 0,
+                    "melee": 0,
+                    "ranged": 340
+                },
+                "name": "Air Guard"
+            },
+            {
+                "id": 85,
+                "maxHits": {
+                    "magic": 0,
+                    "melee": 0,
+                    "ranged": 340
+                },
+                "name": "Air Guard"
+            },
+            {
+                "id": 85,
+                "maxHits": {
+                    "magic": 0,
+                    "melee": 0,
+                    "ranged": 340
+                },
+                "name": "Air Guard"
+            },
+            {
+                "id": 86,
+                "maxHits": {
+                    "magic": 0,
+                    "melee": 441,
+                    "ranged": 0
+                },
+                "name": "Air Monster"
+            },
+            {
+                "id": 86,
+                "maxHits": {
+                    "magic": 0,
+                    "melee": 441,
+                    "ranged": 0
+                },
+                "name": "Air Monster"
+            },
+            {
+                "id": 86,
+                "maxHits": {
+                    "magic": 0,
+                    "melee": 441,
+                    "ranged": 0
+                },
+                "name": "Air Monster"
+            },
+            {
+                "id": 86,
+                "maxHits": {
+                    "magic": 0,
+                    "melee": 441,
+                    "ranged": 0
+                },
+                "name": "Air Monster"
+            },
+            {
+                "id": 86,
+                "maxHits": {
+                    "magic": 0,
+                    "melee": 441,
+                    "ranged": 0
+                },
+                "name": "Air Monster"
+            },
+            {
+                "id": 86,
+                "maxHits": {
+                    "magic": 0,
+                    "melee": 441,
+                    "ranged": 0
+                },
+                "name": "Air Monster"
+            },
+            {
+                "id": 87,
+                "maxHits": {
+                    "magic": 0,
+                    "melee": 0,
+                    "ranged": 650
+                },
+                "name": "Air Golem"
+            },
+            {
+                "id": 87,
+                "maxHits": {
+                    "magic": 0,
+                    "melee": 0,
+                    "ranged": 650
+                },
+                "name": "Air Golem"
+            },
+            {
+                "id": 87,
+                "maxHits": {
+                    "magic": 0,
+                    "melee": 0,
+                    "ranged": 650
+                },
+                "name": "Air Golem"
+            },
+            {
+                "id": 87,
+                "maxHits": {
+                    "magic": 0,
+                    "melee": 0,
+                    "ranged": 650
+                },
+                "name": "Air Golem"
+            },
+            {
+                "id": 88,
+                "maxHits": {
+                    "magic": 0,
+                    "melee": 699,
+                    "ranged": 0
+                },
+                "name": "Aleron"
+            },
+            {
+                "id": 89,
+                "maxHits": {
+                    "magic": 0,
+                    "melee": 0,
+                    "ranged": 713
+                },
+                "name": "Voltaire"
+            },
+            {
+                "id": 90,
+                "maxHits": {
+                    "magic": 0,
+                    "melee": 0,
+                    "ranged": 650
+                },
+                "name": "Aeris"
+            }
+        ]
+    },
+    {
+        "dungeon": "Water God Dungeon",
+        "monsters": [
+            {
+                "id": 91,
+                "maxHits": {
+                    "magic": 370,
+                    "melee": 0,
+                    "ranged": 0
+                },
+                "name": "Water Guard"
+            },
+            {
+                "id": 91,
+                "maxHits": {
+                    "magic": 370,
+                    "melee": 0,
+                    "ranged": 0
+                },
+                "name": "Water Guard"
+            },
+            {
+                "id": 91,
+                "maxHits": {
+                    "magic": 370,
+                    "melee": 0,
+                    "ranged": 0
+                },
+                "name": "Water Guard"
+            },
+            {
+                "id": 91,
+                "maxHits": {
+                    "magic": 370,
+                    "melee": 0,
+                    "ranged": 0
+                },
+                "name": "Water Guard"
+            },
+            {
+                "id": 91,
+                "maxHits": {
+                    "magic": 370,
+                    "melee": 0,
+                    "ranged": 0
+                },
+                "name": "Water Guard"
+            },
+            {
+                "id": 91,
+                "maxHits": {
+                    "magic": 370,
+                    "melee": 0,
+                    "ranged": 0
+                },
+                "name": "Water Guard"
+            },
+            {
+                "id": 91,
+                "maxHits": {
+                    "magic": 370,
+                    "melee": 0,
+                    "ranged": 0
+                },
+                "name": "Water Guard"
+            },
+            {
+                "id": 91,
+                "maxHits": {
+                    "magic": 370,
+                    "melee": 0,
+                    "ranged": 0
+                },
+                "name": "Water Guard"
+            },
+            {
+                "id": 92,
+                "maxHits": {
+                    "magic": 0,
+                    "melee": 464,
+                    "ranged": 0
+                },
+                "name": "Water Monster"
+            },
+            {
+                "id": 92,
+                "maxHits": {
+                    "magic": 0,
+                    "melee": 464,
+                    "ranged": 0
+                },
+                "name": "Water Monster"
+            },
+            {
+                "id": 92,
+                "maxHits": {
+                    "magic": 0,
+                    "melee": 464,
+                    "ranged": 0
+                },
+                "name": "Water Monster"
+            },
+            {
+                "id": 92,
+                "maxHits": {
+                    "magic": 0,
+                    "melee": 464,
+                    "ranged": 0
+                },
+                "name": "Water Monster"
+            },
+            {
+                "id": 92,
+                "maxHits": {
+                    "magic": 0,
+                    "melee": 464,
+                    "ranged": 0
+                },
+                "name": "Water Monster"
+            },
+            {
+                "id": 92,
+                "maxHits": {
+                    "magic": 0,
+                    "melee": 464,
+                    "ranged": 0
+                },
+                "name": "Water Monster"
+            },
+            {
+                "id": 93,
+                "maxHits": {
+                    "magic": 845,
+                    "melee": 0,
+                    "ranged": 0
+                },
+                "name": "Water Golem"
+            },
+            {
+                "id": 93,
+                "maxHits": {
+                    "magic": 845,
+                    "melee": 0,
+                    "ranged": 0
+                },
+                "name": "Water Golem"
+            },
+            {
+                "id": 93,
+                "maxHits": {
+                    "magic": 845,
+                    "melee": 0,
+                    "ranged": 0
+                },
+                "name": "Water Golem"
+            },
+            {
+                "id": 93,
+                "maxHits": {
+                    "magic": 845,
+                    "melee": 0,
+                    "ranged": 0
+                },
+                "name": "Water Golem"
+            },
+            {
+                "id": 94,
+                "maxHits": {
+                    "magic": 720,
+                    "melee": 0,
+                    "ranged": 0
+                },
+                "name": "Lissia"
+            },
+            {
+                "id": 95,
+                "maxHits": {
+                    "magic": 0,
+                    "melee": 733,
+                    "ranged": 0
+                },
+                "name": "Murtia"
+            },
+            {
+                "id": 96,
+                "maxHits": {
+                    "magic": 900,
+                    "melee": 0,
+                    "ranged": 0
+                },
+                "name": "Glacia"
+            }
+        ]
+    },
+    {
+        "dungeon": "Earth God Dungeon",
+        "monsters": [
+            {
+                "id": 97,
+                "maxHits": {
+                    "magic": 0,
+                    "melee": 0,
+                    "ranged": 320
+                },
+                "name": "Earth Guard"
+            },
+            {
+                "id": 97,
+                "maxHits": {
+                    "magic": 0,
+                    "melee": 0,
+                    "ranged": 320
+                },
+                "name": "Earth Guard"
+            },
+            {
+                "id": 97,
+                "maxHits": {
+                    "magic": 0,
+                    "melee": 0,
+                    "ranged": 320
+                },
+                "name": "Earth Guard"
+            },
+            {
+                "id": 97,
+                "maxHits": {
+                    "magic": 0,
+                    "melee": 0,
+                    "ranged": 320
+                },
+                "name": "Earth Guard"
+            },
+            {
+                "id": 97,
+                "maxHits": {
+                    "magic": 0,
+                    "melee": 0,
+                    "ranged": 320
+                },
+                "name": "Earth Guard"
+            },
+            {
+                "id": 97,
+                "maxHits": {
+                    "magic": 0,
+                    "melee": 0,
+                    "ranged": 320
+                },
+                "name": "Earth Guard"
+            },
+            {
+                "id": 97,
+                "maxHits": {
+                    "magic": 0,
+                    "melee": 0,
+                    "ranged": 320
+                },
+                "name": "Earth Guard"
+            },
+            {
+                "id": 97,
+                "maxHits": {
+                    "magic": 0,
+                    "melee": 0,
+                    "ranged": 320
+                },
+                "name": "Earth Guard"
+            },
+            {
+                "id": 98,
+                "maxHits": {
+                    "magic": 0,
+                    "melee": 650,
+                    "ranged": 0
+                },
+                "name": "Earth Monster"
+            },
+            {
+                "id": 98,
+                "maxHits": {
+                    "magic": 0,
+                    "melee": 650,
+                    "ranged": 0
+                },
+                "name": "Earth Monster"
+            },
+            {
+                "id": 98,
+                "maxHits": {
+                    "magic": 0,
+                    "melee": 650,
+                    "ranged": 0
+                },
+                "name": "Earth Monster"
+            },
+            {
+                "id": 98,
+                "maxHits": {
+                    "magic": 0,
+                    "melee": 650,
+                    "ranged": 0
+                },
+                "name": "Earth Monster"
+            },
+            {
+                "id": 98,
+                "maxHits": {
+                    "magic": 0,
+                    "melee": 650,
+                    "ranged": 0
+                },
+                "name": "Earth Monster"
+            },
+            {
+                "id": 98,
+                "maxHits": {
+                    "magic": 0,
+                    "melee": 650,
+                    "ranged": 0
+                },
+                "name": "Earth Monster"
+            },
+            {
+                "id": 99,
+                "maxHits": {
+                    "magic": 0,
+                    "melee": 850,
+                    "ranged": 0
+                },
+                "name": "Earth Golem"
+            },
+            {
+                "id": 99,
+                "maxHits": {
+                    "magic": 0,
+                    "melee": 850,
+                    "ranged": 0
+                },
+                "name": "Earth Golem"
+            },
+            {
+                "id": 99,
+                "maxHits": {
+                    "magic": 0,
+                    "melee": 850,
+                    "ranged": 0
+                },
+                "name": "Earth Golem"
+            },
+            {
+                "id": 99,
+                "maxHits": {
+                    "magic": 0,
+                    "melee": 850,
+                    "ranged": 0
+                },
+                "name": "Earth Golem"
+            },
+            {
+                "id": 100,
+                "maxHits": {
+                    "magic": 680,
+                    "melee": 0,
+                    "ranged": 0
+                },
+                "name": "Mistral"
+            },
+            {
+                "id": 101,
+                "maxHits": {
+                    "magic": 0,
+                    "melee": 699,
+                    "ranged": 0
+                },
+                "name": "Ophidia"
+            },
+            {
+                "id": 102,
+                "maxHits": {
+                    "magic": 0,
+                    "melee": 950,
+                    "ranged": 0
+                },
+                "name": "Terran"
+            }
+        ]
+    },
+    {
+        "dungeon": "Fire God Dungeon",
+        "monsters": [
+            {
+                "id": 103,
+                "maxHits": {
+                    "magic": 0,
+                    "melee": 650,
+                    "ranged": 0
+                },
+                "name": "Fire Guard"
+            },
+            {
+                "id": 103,
+                "maxHits": {
+                    "magic": 0,
+                    "melee": 650,
+                    "ranged": 0
+                },
+                "name": "Fire Guard"
+            },
+            {
+                "id": 103,
+                "maxHits": {
+                    "magic": 0,
+                    "melee": 650,
+                    "ranged": 0
+                },
+                "name": "Fire Guard"
+            },
+            {
+                "id": 103,
+                "maxHits": {
+                    "magic": 0,
+                    "melee": 650,
+                    "ranged": 0
+                },
+                "name": "Fire Guard"
+            },
+            {
+                "id": 103,
+                "maxHits": {
+                    "magic": 0,
+                    "melee": 650,
+                    "ranged": 0
+                },
+                "name": "Fire Guard"
+            },
+            {
+                "id": 103,
+                "maxHits": {
+                    "magic": 0,
+                    "melee": 650,
+                    "ranged": 0
+                },
+                "name": "Fire Guard"
+            },
+            {
+                "id": 103,
+                "maxHits": {
+                    "magic": 0,
+                    "melee": 650,
+                    "ranged": 0
+                },
+                "name": "Fire Guard"
+            },
+            {
+                "id": 103,
+                "maxHits": {
+                    "magic": 0,
+                    "melee": 650,
+                    "ranged": 0
+                },
+                "name": "Fire Guard"
+            },
+            {
+                "id": 104,
+                "maxHits": {
+                    "magic": 0,
+                    "melee": 487,
+                    "ranged": 0
+                },
+                "name": "Fire Monster"
+            },
+            {
+                "id": 104,
+                "maxHits": {
+                    "magic": 0,
+                    "melee": 487,
+                    "ranged": 0
+                },
+                "name": "Fire Monster"
+            },
+            {
+                "id": 104,
+                "maxHits": {
+                    "magic": 0,
+                    "melee": 487,
+                    "ranged": 0
+                },
+                "name": "Fire Monster"
+            },
+            {
+                "id": 104,
+                "maxHits": {
+                    "magic": 0,
+                    "melee": 487,
+                    "ranged": 0
+                },
+                "name": "Fire Monster"
+            },
+            {
+                "id": 104,
+                "maxHits": {
+                    "magic": 0,
+                    "melee": 487,
+                    "ranged": 0
+                },
+                "name": "Fire Monster"
+            },
+            {
+                "id": 104,
+                "maxHits": {
+                    "magic": 0,
+                    "melee": 487,
+                    "ranged": 0
+                },
+                "name": "Fire Monster"
+            },
+            {
+                "id": 105,
+                "maxHits": {
+                    "magic": 580,
+                    "melee": 0,
+                    "ranged": 0
+                },
+                "name": "Fire Golem"
+            },
+            {
+                "id": 105,
+                "maxHits": {
+                    "magic": 580,
+                    "melee": 0,
+                    "ranged": 0
+                },
+                "name": "Fire Golem"
+            },
+            {
+                "id": 105,
+                "maxHits": {
+                    "magic": 580,
+                    "melee": 0,
+                    "ranged": 0
+                },
+                "name": "Fire Golem"
+            },
+            {
+                "id": 105,
+                "maxHits": {
+                    "magic": 580,
+                    "melee": 0,
+                    "ranged": 0
+                },
+                "name": "Fire Golem"
+            },
+            {
+                "id": 106,
+                "maxHits": {
+                    "magic": 900,
+                    "melee": 0,
+                    "ranged": 0
+                },
+                "name": "Pyra"
+            },
+            {
+                "id": 107,
+                "maxHits": {
+                    "magic": 0,
+                    "melee": 900,
+                    "ranged": 0
+                },
+                "name": "Ignis"
+            },
+            {
+                "id": 108,
+                "maxHits": {
+                    "magic": 1300,
+                    "melee": 0,
+                    "ranged": 0
+                },
+                "name": "Ragnar"
+            }
+        ]
+    },
+    {
+        "dungeon": "Dragons Den",
+        "monsters": [
+            {
+                "id": 63,
+                "maxHits": {
+                    "magic": 0,
+                    "melee": 143,
+                    "ranged": 0
+                },
+                "name": "Green Dragon"
+            },
+            {
+                "id": 63,
+                "maxHits": {
+                    "magic": 0,
+                    "melee": 143,
+                    "ranged": 0
+                },
+                "name": "Green Dragon"
+            },
+            {
+                "id": 64,
+                "maxHits": {
+                    "magic": 0,
+                    "melee": 168,
+                    "ranged": 0
+                },
+                "name": "Blue Dragon"
+            },
+            {
+                "id": 64,
+                "maxHits": {
+                    "magic": 0,
+                    "melee": 168,
+                    "ranged": 0
+                },
+                "name": "Blue Dragon"
+            },
+            {
+                "id": 65,
+                "maxHits": {
+                    "magic": 0,
+                    "melee": 212,
+                    "ranged": 0
+                },
+                "name": "Red Dragon"
+            },
+            {
+                "id": 65,
+                "maxHits": {
+                    "magic": 0,
+                    "melee": 212,
+                    "ranged": 0
+                },
+                "name": "Red Dragon"
+            },
+            {
+                "id": 66,
+                "maxHits": {
+                    "magic": 0,
+                    "melee": 268,
+                    "ranged": 0
+                },
+                "name": "Black Dragon"
+            },
+            {
+                "id": 66,
+                "maxHits": {
+                    "magic": 0,
+                    "melee": 268,
+                    "ranged": 0
+                },
+                "name": "Black Dragon"
+            },
+            {
+                "id": 109,
+                "maxHits": {
+                    "magic": 0,
+                    "melee": 470,
+                    "ranged": 0
+                },
+                "name": "Elder Dragon"
+            }
+        ]
+    },
+    {
+        "dungeon": "Miolite Caves",
+        "monsters": [
+            {
+                "id": 112,
+                "maxHits": {
+                    "magic": 0,
+                    "melee": 150,
+                    "ranged": 0
+                },
+                "name": "Miolite Sprig"
+            },
+            {
+                "id": 112,
+                "maxHits": {
+                    "magic": 0,
+                    "melee": 150,
+                    "ranged": 0
+                },
+                "name": "Miolite Sprig"
+            },
+            {
+                "id": 113,
+                "maxHits": {
+                    "magic": 150,
+                    "melee": 0,
+                    "ranged": 0
+                },
+                "name": "Miolite Trio"
+            },
+            {
+                "id": 113,
+                "maxHits": {
+                    "magic": 150,
+                    "melee": 0,
+                    "ranged": 0
+                },
+                "name": "Miolite Trio"
+            },
+            {
+                "id": 114,
+                "maxHits": {
+                    "magic": 0,
+                    "melee": 152,
+                    "ranged": 0
+                },
+                "name": "Miolite Warden"
+            },
+            {
+                "id": 114,
+                "maxHits": {
+                    "magic": 0,
+                    "melee": 152,
+                    "ranged": 0
+                },
+                "name": "Miolite Warden"
+            },
+            {
+                "id": 115,
+                "maxHits": {
+                    "magic": 200,
+                    "melee": 0,
+                    "ranged": 0
+                },
+                "name": "Miolite Monarch"
+            }
+        ]
+    },
+    {
+        "dungeon": "Infernal Stronghold",
+        "monsters": [
+            {
+                "id": 140,
+                "maxHits": {
+                    "magic": 0,
+                    "melee": 162,
+                    "ranged": 0
+                },
+                "name": "Cerberus"
+            },
+            {
+                "id": 140,
+                "maxHits": {
+                    "magic": 0,
+                    "melee": 162,
+                    "ranged": 0
+                },
+                "name": "Cerberus"
+            },
+            {
+                "id": 140,
+                "maxHits": {
+                    "magic": 0,
+                    "melee": 162,
+                    "ranged": 0
+                },
+                "name": "Cerberus"
+            },
+            {
+                "id": 140,
+                "maxHits": {
+                    "magic": 0,
+                    "melee": 162,
+                    "ranged": 0
+                },
+                "name": "Cerberus"
+            },
+            {
+                "id": 140,
+                "maxHits": {
+                    "magic": 0,
+                    "melee": 162,
+                    "ranged": 0
+                },
+                "name": "Cerberus"
+            },
+            {
+                "id": 141,
+                "maxHits": {
+                    "magic": 236,
+                    "melee": 0,
+                    "ranged": 0
+                },
+                "name": "Fearful Eye"
+            },
+            {
+                "id": 141,
+                "maxHits": {
+                    "magic": 236,
+                    "melee": 0,
+                    "ranged": 0
+                },
+                "name": "Fearful Eye"
+            },
+            {
+                "id": 141,
+                "maxHits": {
+                    "magic": 236,
+                    "melee": 0,
+                    "ranged": 0
+                },
+                "name": "Fearful Eye"
+            },
+            {
+                "id": 141,
+                "maxHits": {
+                    "magic": 236,
+                    "melee": 0,
+                    "ranged": 0
+                },
+                "name": "Fearful Eye"
+            },
+            {
+                "id": 142,
+                "maxHits": {
+                    "magic": 0,
+                    "melee": 314,
+                    "ranged": 0
+                },
+                "name": "Red Devil"
+            },
+            {
+                "id": 142,
+                "maxHits": {
+                    "magic": 0,
+                    "melee": 314,
+                    "ranged": 0
+                },
+                "name": "Red Devil"
+            },
+            {
+                "id": 142,
+                "maxHits": {
+                    "magic": 0,
+                    "melee": 314,
+                    "ranged": 0
+                },
+                "name": "Red Devil"
+            },
+            {
+                "id": 143,
+                "maxHits": {
+                    "magic": 371,
+                    "melee": 0,
+                    "ranged": 0
+                },
+                "name": "Phoenix"
+            },
+            {
+                "id": 143,
+                "maxHits": {
+                    "magic": 371,
+                    "melee": 0,
+                    "ranged": 0
+                },
+                "name": "Phoenix"
+            },
+            {
+                "id": 144,
+                "maxHits": {
+                    "magic": 0,
+                    "melee": 433,
+                    "ranged": 0
+                },
+                "name": "Incendius"
+            },
+            {
+                "id": 145,
+                "maxHits": {
+                    "magic": 0,
+                    "melee": 0,
+                    "ranged": 522
+                },
+                "name": "Prat, the Guardian of Secrets"
+            },
+            {
+                "id": 146,
+                "maxHits": {
+                    "magic": 0,
+                    "melee": 750,
+                    "ranged": 0
+                },
+                "name": "Malcs, the Leader of Dragons"
+            }
+        ]
+    },
+    {
+        "dungeon": "Into the Mist",
+        "monsters": [
+            {
+                "id": 23,
+                "maxHits": {
+                    "magic": 0,
+                    "melee": 264,
+                    "ranged": 0
+                },
+                "name": "Pegasus"
+            },
+            {
+                "id": 34,
+                "maxHits": {
+                    "magic": 0,
+                    "melee": 443,
+                    "ranged": 0
+                },
+                "name": "Dark Horned Elite"
+            },
+            {
+                "id": 43,
+                "maxHits": {
+                    "magic": 0,
+                    "melee": 204,
+                    "ranged": 0
+                },
+                "name": "The Kraken"
+            },
+            {
+                "id": 47,
+                "maxHits": {
+                    "magic": 240,
+                    "melee": 0,
+                    "ranged": 0
+                },
+                "name": "Resurrected Eye"
+            },
+            {
+                "id": 48,
+                "maxHits": {
+                    "magic": 0,
+                    "melee": 0,
+                    "ranged": 501
+                },
+                "name": "Prat, the Protector of Secrets"
+            },
+            {
+                "id": 49,
+                "maxHits": {
+                    "magic": 0,
+                    "melee": 520,
+                    "ranged": 0
+                },
+                "name": "Malcs, the Guardian of Melvor"
+            },
+            {
+                "id": 57,
+                "maxHits": {
+                    "magic": 0,
+                    "melee": 172,
+                    "ranged": 0
+                },
+                "name": "Protector of Ice"
+            },
+            {
+                "id": 83,
+                "maxHits": {
+                    "magic": 0,
+                    "melee": 0,
+                    "ranged": 282
+                },
+                "name": "Vicious Serpent"
+            },
+            {
+                "id": 84,
+                "maxHits": {
+                    "magic": 340,
+                    "melee": 0,
+                    "ranged": 0
+                },
+                "name": "Fire Spirit"
+            },
+            {
+                "id": 85,
+                "maxHits": {
+                    "magic": 0,
+                    "melee": 0,
+                    "ranged": 340
+                },
+                "name": "Air Guard"
+            },
+            {
+                "id": 86,
+                "maxHits": {
+                    "magic": 0,
+                    "melee": 441,
+                    "ranged": 0
+                },
+                "name": "Air Monster"
+            },
+            {
+                "id": 87,
+                "maxHits": {
+                    "magic": 0,
+                    "melee": 0,
+                    "ranged": 650
+                },
+                "name": "Air Golem"
+            },
+            {
+                "id": 88,
+                "maxHits": {
+                    "magic": 0,
+                    "melee": 699,
+                    "ranged": 0
+                },
+                "name": "Aleron"
+            },
+            {
+                "id": 89,
+                "maxHits": {
+                    "magic": 0,
+                    "melee": 0,
+                    "ranged": 713
+                },
+                "name": "Voltaire"
+            },
+            {
+                "id": 91,
+                "maxHits": {
+                    "magic": 370,
+                    "melee": 0,
+                    "ranged": 0
+                },
+                "name": "Water Guard"
+            },
+            {
+                "id": 92,
+                "maxHits": {
+                    "magic": 0,
+                    "melee": 464,
+                    "ranged": 0
+                },
+                "name": "Water Monster"
+            },
+            {
+                "id": 93,
+                "maxHits": {
+                    "magic": 845,
+                    "melee": 0,
+                    "ranged": 0
+                },
+                "name": "Water Golem"
+            },
+            {
+                "id": 94,
+                "maxHits": {
+                    "magic": 720,
+                    "melee": 0,
+                    "ranged": 0
+                },
+                "name": "Lissia"
+            },
+            {
+                "id": 95,
+                "maxHits": {
+                    "magic": 0,
+                    "melee": 733,
+                    "ranged": 0
+                },
+                "name": "Murtia"
+            },
+            {
+                "id": 97,
+                "maxHits": {
+                    "magic": 0,
+                    "melee": 0,
+                    "ranged": 320
+                },
+                "name": "Earth Guard"
+            },
+            {
+                "id": 98,
+                "maxHits": {
+                    "magic": 0,
+                    "melee": 650,
+                    "ranged": 0
+                },
+                "name": "Earth Monster"
+            },
+            {
+                "id": 99,
+                "maxHits": {
+                    "magic": 0,
+                    "melee": 850,
+                    "ranged": 0
+                },
+                "name": "Earth Golem"
+            },
+            {
+                "id": 100,
+                "maxHits": {
+                    "magic": 680,
+                    "melee": 0,
+                    "ranged": 0
+                },
+                "name": "Mistral"
+            },
+            {
+                "id": 101,
+                "maxHits": {
+                    "magic": 0,
+                    "melee": 699,
+                    "ranged": 0
+                },
+                "name": "Ophidia"
+            },
+            {
+                "id": 103,
+                "maxHits": {
+                    "magic": 0,
+                    "melee": 650,
+                    "ranged": 0
+                },
+                "name": "Fire Guard"
+            },
+            {
+                "id": 104,
+                "maxHits": {
+                    "magic": 0,
+                    "melee": 487,
+                    "ranged": 0
+                },
+                "name": "Fire Monster"
+            },
+            {
+                "id": 105,
+                "maxHits": {
+                    "magic": 580,
+                    "melee": 0,
+                    "ranged": 0
+                },
+                "name": "Fire Golem"
+            },
+            {
+                "id": 106,
+                "maxHits": {
+                    "magic": 900,
+                    "melee": 0,
+                    "ranged": 0
+                },
+                "name": "Pyra"
+            },
+            {
+                "id": 107,
+                "maxHits": {
+                    "magic": 0,
+                    "melee": 900,
+                    "ranged": 0
+                },
+                "name": "Ignis"
+            },
+            {
+                "id": 109,
+                "maxHits": {
+                    "magic": 0,
+                    "melee": 470,
+                    "ranged": 0
+                },
+                "name": "Elder Dragon"
+            },
+            {
+                "id": 110,
+                "maxHits": {
+                    "magic": 0,
+                    "melee": 0,
+                    "ranged": 397
+                },
+                "name": "Furious Horned Elite"
+            },
+            {
+                "id": 115,
+                "maxHits": {
+                    "magic": 200,
+                    "melee": 0,
+                    "ranged": 0
+                },
+                "name": "Miolite Monarch"
+            },
+            {
+                "id": 120,
+                "maxHits": {
+                    "magic": 240,
+                    "melee": 0,
+                    "ranged": 0
+                },
+                "name": "Elementalist"
+            },
+            {
+                "id": 126,
+                "maxHits": {
+                    "magic": 0,
+                    "melee": 0,
+                    "ranged": 260
+                },
+                "name": "Sand Beast"
+            },
+            {
+                "id": 127,
+                "maxHits": {
+                    "magic": 0,
+                    "melee": 0,
+                    "ranged": 450
+                },
+                "name": "Rancora Spider"
+            },
+            {
+                "id": 128,
+                "maxHits": {
+                    "magic": 0,
+                    "melee": 0,
+                    "ranged": 400
+                },
+                "name": "Elder Vampire"
+            },
+            {
+                "id": 129,
+                "maxHits": {
+                    "magic": 450,
+                    "melee": 0,
+                    "ranged": 0
+                },
+                "name": "Cursed Maiden"
+            },
+            {
+                "id": 130,
+                "maxHits": {
+                    "magic": 0,
+                    "melee": 329,
+                    "ranged": 0
+                },
+                "name": "Bounty Hunter"
+            },
+            {
+                "id": 131,
+                "maxHits": {
+                    "magic": 0,
+                    "melee": 600,
+                    "ranged": 0
+                },
+                "name": "Chaotic Greater Dragon"
+            },
+            {
+                "id": 132,
+                "maxHits": {
+                    "magic": 0,
+                    "melee": 0,
+                    "ranged": 600
+                },
+                "name": "Hunting Greater Dragon"
+            },
+            {
+                "id": 133,
+                "maxHits": {
+                    "magic": 240,
+                    "melee": 0,
+                    "ranged": 0
+                },
+                "name": "Wicked Greater Dragon"
+            },
+            {
+                "id": 141,
+                "maxHits": {
+                    "magic": 236,
+                    "melee": 0,
+                    "ranged": 0
+                },
+                "name": "Fearful Eye"
+            },
+            {
+                "id": 142,
+                "maxHits": {
+                    "magic": 0,
+                    "melee": 314,
+                    "ranged": 0
+                },
+                "name": "Red Devil"
+            },
+            {
+                "id": 143,
+                "maxHits": {
+                    "magic": 371,
+                    "melee": 0,
+                    "ranged": 0
+                },
+                "name": "Phoenix"
+            },
+            {
+                "id": 144,
+                "maxHits": {
+                    "magic": 0,
+                    "melee": 433,
+                    "ranged": 0
+                },
+                "name": "Incendius"
+            },
+            {
+                "id": 145,
+                "maxHits": {
+                    "magic": 0,
+                    "melee": 0,
+                    "ranged": 522
+                },
+                "name": "Prat, the Guardian of Secrets"
+            },
+            {
+                "id": 147,
+                "maxHits": {
+                    "magic": 0,
+                    "melee": 600,
+                    "ranged": 0
+                },
+                "name": "Mysterious Figure - Phase 1"
+            },
+            {
+                "id": 148,
+                "maxHits": {
+                    "magic": 0,
+                    "melee": 0,
+                    "ranged": 450
+                },
+                "name": "Mysterious Figure - Phase 2"
+            },
+            {
+                "id": 149,
+                "maxHits": {
+                    "magic": 800,
+                    "melee": 0,
+                    "ranged": 0
+                },
+                "name": "Ahrenia"
+            }
+        ]
+    }
+]
