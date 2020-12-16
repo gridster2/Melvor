@@ -24,11 +24,11 @@ Melvor Idle v0.18.0, /u/gridster2
 
 ## Introduction
 
-This guide best used alongside [Damage Reduction Tables for Dungeons](https://www.reddit.com/r/MelvorIdle/comments/kdzf4f/damage_reduction_tables_for_dungeons/?).
+This guide best used alongside [Damage Reduction Tables for Dungeons](https://www.reddit.com/r/MelvorIdle/comments/kdzha0/damage_reduction_tables_for_dungeons/?).
 
 [Damage Reduction](https://wiki.melvoridle.com/index.php?title=Combat#Combat_Info) is the most important combat modifier in the game, and the most difficult to optimize for. The [Melvor Idle Wiki](https://wiki.melvoridle.com/index.php?title=Main_Page) does not have much information about damage reduction, and determining how to maximize reduction requires hopping back and forth through several pages. Determining hitpoint / damage reduction breakpoints for dungeons is also difficult. This compendium will hopefully improve this by listing all the relevant information on a single page, and explain how conclusions were drawn.
 
-For information about the damage reduction required to safely idle specific dungeons, refer to the [Damage Reduction Tables for Dungeons](https://www.reddit.com/r/MelvorIdle/comments/kdzf4f/damage_reduction_tables_for_dungeons/?). Scroll to the bottom of this post to see calculations on maximum damage reduction.
+For information about the damage reduction required to safely idle specific dungeons, refer to the [Damage Reduction Tables for Dungeons](https://www.reddit.com/r/MelvorIdle/comments/kdzha0/damage_reduction_tables_for_dungeons/?). Scroll to the bottom of this post to see calculations on maximum damage reduction.
 
 ## Damage Reduction and Idle Combat
 
@@ -61,7 +61,7 @@ The [Combat Triangle](https://wiki.melvoridle.com/index.php?title=Combat_Triangl
 
 As of v0.18.0, certain enemies can affect the player's maximum hitpoints and their damage reduction. This makes it important to consider not just the max hit of the dungeon (as had been done for previous versions), but the specific monster dealing the hit. It is also important to consider the damage dealt by special attacks, as some special attacks deal extra damage when the player is stunned.
 
-The [Damage Reduction Tables for Dungeons](%%drtablelink%%), giving the damage reduction required for a given combat style and number of hitpoints, can be referenced for details. It is not included in this compendium due to Reddit's character limit.
+The [Damage Reduction Tables for Dungeons](https://www.reddit.com/r/MelvorIdle/comments/kdzha0/damage_reduction_tables_for_dungeons/?), giving the damage reduction required for a given combat style and number of hitpoints, can be referenced for details. It is not included in this compendium due to Reddit's character limit.
 
 ## Sources of Damage Reduction
 
@@ -253,4 +253,8 @@ A more realistic maximum would use the [Infernal Cape](https://wiki.melvoridle.c
 
 ## Loadouts
 
+*Coming soon: example loadouts for dungeon-grinding - add a comment, using the above format, if you have any suggestions*
+
 ## Closing
+
+Check out this project on [GitHub](https://github.com/gridster2/Melvor/blob/main/Documents/Compendium%20of%20Damage%20Reduction.md#Introduction). Please add, correct, or suggest anything that comes to mind. See you next update!
