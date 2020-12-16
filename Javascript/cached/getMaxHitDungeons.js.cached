@@ -888,7 +888,7 @@
                 "id": 92,
                 "maxHits": {
                     "magic": 0,
-                    "melee": 464,
+                    "melee": 650,
                     "ranged": 0
                 },
                 "name": "Water Monster"
@@ -897,7 +897,7 @@
                 "id": 92,
                 "maxHits": {
                     "magic": 0,
-                    "melee": 464,
+                    "melee": 650,
                     "ranged": 0
                 },
                 "name": "Water Monster"
@@ -906,7 +906,7 @@
                 "id": 92,
                 "maxHits": {
                     "magic": 0,
-                    "melee": 464,
+                    "melee": 650,
                     "ranged": 0
                 },
                 "name": "Water Monster"
@@ -915,7 +915,7 @@
                 "id": 92,
                 "maxHits": {
                     "magic": 0,
-                    "melee": 464,
+                    "melee": 650,
                     "ranged": 0
                 },
                 "name": "Water Monster"
@@ -924,7 +924,7 @@
                 "id": 92,
                 "maxHits": {
                     "magic": 0,
-                    "melee": 464,
+                    "melee": 650,
                     "ranged": 0
                 },
                 "name": "Water Monster"
@@ -933,7 +933,7 @@
                 "id": 92,
                 "maxHits": {
                     "magic": 0,
-                    "melee": 464,
+                    "melee": 650,
                     "ranged": 0
                 },
                 "name": "Water Monster"
@@ -995,7 +995,7 @@
             {
                 "id": 96,
                 "maxHits": {
-                    "magic": 900,
+                    "magic": 1080,
                     "melee": 0,
                     "ranged": 0
                 },
@@ -1845,7 +1845,7 @@
                 "id": 92,
                 "maxHits": {
                     "magic": 0,
-                    "melee": 464,
+                    "melee": 650,
                     "ranged": 0
                 },
                 "name": "Water Monster"
@@ -2124,7 +2124,7 @@
                 "id": 147,
                 "maxHits": {
                     "magic": 0,
-                    "melee": 600,
+                    "melee": 780,
                     "ranged": 0
                 },
                 "name": "Mysterious Figure - Phase 1"
@@ -2134,14 +2134,14 @@
                 "maxHits": {
                     "magic": 0,
                     "melee": 0,
-                    "ranged": 450
+                    "ranged": 585
                 },
                 "name": "Mysterious Figure - Phase 2"
             },
             {
                 "id": 149,
                 "maxHits": {
-                    "magic": 800,
+                    "magic": 1040,
                     "melee": 0,
                     "ranged": 0
                 },

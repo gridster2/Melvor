@@ -47,7 +47,7 @@ async function getMaxHit(monsterId) {
 			if (specialAttack.setDamage != null) setDamage = specialAttack.setDamage;
 			if (specialAttack.setDOTDamage != null) setDOTDamage = specialAttack.setDOTDamage;
 			setDamage = Math.max(...[setDamage, setDOTDamage]);
-			if (specialAttack.canStun === true) {
+			if (specialAttack.stunDamageMultiplier != null && specialAttack.stunDamageMultiplier > 1) {
 				setDamage = setDamage * specialAttack.stunDamageMultiplier;
 			} 
 			setDamage = setDamage * 10;
