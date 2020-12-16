@@ -24,11 +24,11 @@ Melvor Idle v0.18.0, /u/gridster2
 
 ## Introduction
 
-This guide best used alongside [Damage Reduction Tables for Dungeons](%%drtablelink%%).
+This guide best used alongside [Damage Reduction Tables for Dungeons](https://www.reddit.com/r/MelvorIdle/comments/kdzf4f/damage_reduction_tables_for_dungeons/?).
 
 [Damage Reduction](https://wiki.melvoridle.com/index.php?title=Combat#Combat_Info) is the most important combat modifier in the game, and the most difficult to optimize for. The [Melvor Idle Wiki](https://wiki.melvoridle.com/index.php?title=Main_Page) does not have much information about damage reduction, and determining how to maximize reduction requires hopping back and forth through several pages. Determining hitpoint / damage reduction breakpoints for dungeons is also difficult. This compendium will hopefully improve this by listing all the relevant information on a single page, and explain how conclusions were drawn.
 
-For information about the damage reduction required to safely idle specific dungeons, refer to the [Damage Reduction Tables for Dungeons](%%drtablelink%%). Scroll to the bottom of this post to see calculations on maximum damage reduction.
+For information about the damage reduction required to safely idle specific dungeons, refer to the [Damage Reduction Tables for Dungeons](https://www.reddit.com/r/MelvorIdle/comments/kdzf4f/damage_reduction_tables_for_dungeons/?). Scroll to the bottom of this post to see calculations on maximum damage reduction.
 
 ## Damage Reduction and Idle Combat
 
