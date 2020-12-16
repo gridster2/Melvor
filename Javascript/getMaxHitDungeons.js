@@ -47,7 +47,17 @@ async function getMaxHit(monsterId) {
 			if (specialAttack.setDamage != null) setDamage = specialAttack.setDamage;
 			if (specialAttack.setDOTDamage != null) setDOTDamage = specialAttack.setDOTDamage;
 			setDamage = Math.max(...[setDamage, setDOTDamage]);
-			if (specialAttack.stunDamageMultiplier != null && specialAttack.stunDamageMultiplier > 1) {
+
+			// check that the enemy can stun, then adjust the damage if needed
+			let enemyHasStunAttacks = false;
+			for (let specialAttackIndex2 = 0; specialAttackIndex2 < MONSTERS[monsterId].specialAttackID.length; specialAttackIndex2 ++) {
+				let specialAttack2 = enemySpecialAttacks[MONSTERS[monsterId].specialAttackID[specialAttackIndex2]];
+				if (specialAttack2.canStun) {
+					enemyHasStunAttacks = true;
+				}
+			}
+
+			if (enemyHasStunAttacks && specialAttack.stunDamageMultiplier != null && specialAttack.stunDamageMultiplier > 1) {
 				setDamage = setDamage * specialAttack.stunDamageMultiplier;
 			} 
 			setDamage = setDamage * 10;

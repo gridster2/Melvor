@@ -2124,7 +2124,7 @@
                 "id": 147,
                 "maxHits": {
                     "magic": 0,
-                    "melee": 780,
+                    "melee": 600,
                     "ranged": 0
                 },
                 "name": "Mysterious Figure - Phase 1"
@@ -2134,14 +2134,14 @@
                 "maxHits": {
                     "magic": 0,
                     "melee": 0,
-                    "ranged": 585
+                    "ranged": 450
                 },
                 "name": "Mysterious Figure - Phase 2"
             },
             {
                 "id": 149,
                 "maxHits": {
-                    "magic": 1040,
+                    "magic": 800,
                     "melee": 0,
                     "ranged": 0
                 },
