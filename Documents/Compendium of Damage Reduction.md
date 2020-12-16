@@ -135,7 +135,7 @@ The [Guardian Amulet](https://wiki.melvoridle.com/index.php?title=Guardian_Amule
 
 ### Gloves
 
-Other gloves are listed as part of Equipment Sets (see below). There are only two pairs of gloves that don't belong to a larger equipment set, and also provide damage reduction. [(U) Red D-hide Vambraces](https://wiki.melvoridle.com/index.php?title=%28U%29_Red_D-hide_Vambraces) are superior to both of these with 5% reduction, but require 70 ranged and do not provide the same attack bonuses.
+Other gloves are listed as part of Equipment Sets (see below). There are only two pairs of gloves that don't belong to a larger equipment set, and also provide damage reduction. [(U) Black D-hide Vambraces](https://wiki.melvoridle.com/index.php?title=%28U%29_Black_D-hide_Vambraces) are superior to both of these with 5% reduction, but require 70 ranged and do not provide the same attack bonuses.
 
 |Item|Reduction|Required Level|Combat Style|
 |---|---|---|---|
@@ -257,4 +257,4 @@ A more realistic maximum would use the [Infernal Cape](https://wiki.melvoridle.c
 
 ## Closing
 
-Check out this project on [GitHub](https://github.com/gridster2/Melvor). Please add, correct, or suggest anything that comes to mind. See you next update!
+Check out this project on [GitHub](https://github.com/gridster2/Melvor/blob/main/Documents/Compendium%20of%20Damage%20Reduction.md#Introduction). Please add, correct, or suggest anything that comes to mind. See you next update!
