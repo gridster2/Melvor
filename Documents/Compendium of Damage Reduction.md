@@ -257,4 +257,4 @@ A more realistic maximum would use the [Infernal Cape](https://wiki.melvoridle.c
 
 ## Closing
 
-Check out this project on [GitHub](https://github.com/gridster2/Melvor/blob/main/Documents/Compendium%20of%20Damage%20Reduction.md#Introduction). Please add, correct, or suggest anything that comes to mind. See you next update!
+Check out this project on [GitHub](https://github.com/gridster2/Melvor). Please add, correct, or suggest anything that comes to mind. See you next update!
