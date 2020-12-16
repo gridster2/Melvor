@@ -126,7 +126,7 @@ def generate_tables() -> list[str]:
                                     damage_reduction -= 1
                                     continue
                                 break
-                            max_dr = damage_reduction + 1
+                            max_dr = min(damage_reduction + 1, 100)
                             if max_dr < damage_reduction_minimum:
                                 resulting_dr = ''
                             elif max_dr > damage_reduction_maximum:
