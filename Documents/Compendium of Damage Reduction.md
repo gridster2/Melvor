@@ -25,7 +25,7 @@ Melvor Idle v0.19.2, /u/gridster2
 
 ## Introduction
 
-This guide best used alongside [Damage Reduction Tables for Dungeons](https://www.reddit.com/r/MelvorIdle/comments/kdzha0/damage_reduction_tables_for_dungeons/?).
+This guide best used alongside [Damage Reduction Tables for Dungeons](https://www.reddit.com/r/MelvorIdle/comments/mk84ao/damage_reduction_tables_for_dungeons/).
 
 [Damage Reduction](https://wiki.melvoridle.com/index.php?title=Combat#Combat_Info) is the most important combat modifier in the game, and the most difficult to optimize for. The [Melvor Idle Wiki](https://wiki.melvoridle.com/index.php?title=Main_Page) does not have much information about damage reduction, and determining how to maximize reduction requires hopping back and forth through several pages. Determining hitpoint / damage reduction breakpoints for dungeons is also difficult. This compendium will hopefully improve this by listing all the relevant information on a single page, and explain how conclusions were drawn.
 
@@ -107,7 +107,7 @@ At level 88 [Prayer](https://wiki.melvoridle.com/index.php?title=Prayer), [Stone
 
 |Prayer|Reduction|Cost|
 |---|---|---|
-|[Stone Skin](https://wiki.melvoridle.com/index.php?title=Stone_Skin)|3%|2|
+|[Stone Skin](https://wiki.melvoridle.com/index.php?title=Stone_Skin)|3%|3|
 
 ### Potions
 
@@ -153,7 +153,7 @@ The [Guardian Amulet](https://wiki.melvoridle.com/index.php?title=Guardian_Amule
 
 ### Gloves
 
-Other gloves are listed as part of Equipment Sets (see below). There are only two pairs of gloves that don't belong to a larger equipment set, and also provide damage reduction. [(U) Red D-hide Vambraces](https://wiki.melvoridle.com/index.php?title=%28U%29_Red_D-hide_Vambraces) are superior to both of these with 5% reduction, but require 70 ranged and do not provide the same attack bonuses.
+Other gloves are listed as part of Equipment Sets (see below). There are only two pairs of gloves that don't belong to a larger equipment set, and also provide damage reduction. [(U) Black D-hide Vambraces](https://wiki.melvoridle.com/index.php?title=%28U%29_Black_D-hide_Vambraces) are superior to both of these with 5% reduction, but require 70 ranged and do not provide the same attack bonuses.
 
 |Item|Reduction|Required Level|Combat Style|
 |---|---|---|---|
@@ -220,8 +220,6 @@ Most damage-reducing equipment is part of a set. For most sets, the included ite
 
 ## Maximum Damage Reduction
 
-The following equipment sets describe the maximum damage reduction for each combat style. The [Cape of Completion](https://wiki.melvoridle.com/index.php?title=Cape_of_Completion) is excluded, since it probably won't be obtained while its damage reduction is still useful. The [Guardian Amulet](https://wiki.melvoridle.com/index.php?title=Guardian_Amulet)'s bonus 5% is also excluded, since its damage reduction only kicks in when already low on health, and thus isn't useful when calculating idle combat.
-
 This is the theoretical maximum damage reduction that a player can reach, using the [Cape of Completion](https://wiki.melvoridle.com/index.php?title=Cape_of_Completion) with a [Guardian Amulet](https://wiki.melvoridle.com/index.php?title=Guardian_Amulet). This totals to a whopping **82%** reduction, or with a boosted [Guardian Amulet](https://wiki.melvoridle.com/index.php?title=Guardian_Amulet) and the proper combat triangle bonus, **108%**.
 
 It is unrealistic to do calculations with this percentage reduction, as it relies on nearly impossible-to-get items and specific circumstances. It's worth noting that damage reduction caps at 100%; anything beyond that has no additional effect.
@@ -246,11 +244,11 @@ It is unrealistic to do calculations with this percentage reduction, as it relie
 |||
 |**Description**|**Total Reduction**|**Notes**|
 |Total|**82%**||
-|Plus: Guardian Amulet bonus|87%|5% bonus for having <50% HP|
-|Plus: Combat Triangle bonus|102%|+25% for fighting the weaker combat style|
-|Plus: Guardian Amulet, Combat Triangle|108%|+25% for fighting the weaker combat style|
+|Plus: Guardian Amulet bonus|87%|+5% bonus for having <50% HP|
+|Plus: Combat Triangle bonus|102%|25% (multiplicative) for fighting the weaker combat style|
+|Plus: Guardian Amulet, Combat Triangle|108%|+5% and 25% bonus|
 
-A more realistic maximum would use the [Infernal Cape](https://wiki.melvoridle.com/index.php?title=Infernal_Cape), and not rely on the [Guardian Amulet](https://wiki.melvoridle.com/index.php?title=Guardian_Amulet)'s bonus. This gives a sustainable maximum of **81%** damage reduction.
+A more realistic maximum would use the [Infernal Cape](https://wiki.melvoridle.com/index.php?title=Infernal_Cape), and not rely on the [Guardian Amulet](https://wiki.melvoridle.com/index.php?title=Guardian_Amulet)'s bonus. The [Cape of Completion](https://wiki.melvoridle.com/index.php?title=Cape_of_Completion) is excluded, since it probably won't be obtained while its damage reduction is still useful. The [Guardian Amulet](https://wiki.melvoridle.com/index.php?title=Guardian_Amulet)'s bonus 5% is also excluded, since its damage reduction only kicks in when already low on health, and thus isn't useful when calculating idle combat. This gives a sustainable maximum of **81%** damage reduction. 
 
 |**Source**|**Item**|**Reduction**|
 |---|---|---|
