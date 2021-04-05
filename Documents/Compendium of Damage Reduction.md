@@ -1,6 +1,6 @@
 # Compendium of Damage Reduction
 
-Melvor Idle v0.18.0, /u/gridster2
+Melvor Idle v0.19.2, /u/gridster2
 
 * Introduction
 * Damage Reduction and Idle Combat
@@ -8,6 +8,7 @@ Melvor Idle v0.18.0, /u/gridster2
 * Idling Dungeons
 * Sources of Damage Reduction
     * Passive Items
+    * Agility
     * Pets
     * Prayer
     * Potions
@@ -38,7 +39,7 @@ Whether an enemy or dungeon can be idled is decided by four factors: the enemy's
 
 For example, a player with 500 HP, 10% damage reduction, and [Auto Eat II](https://wiki.melvoridle.com/index.php?title=Auto_Eat_-_Tier_II) (threshold 30%) could safely idle an enemy with a max hit of 166, but not 167. To idle the [Air God Dungeon](https://wiki.melvoridle.com/index.php?title=Air_God_Dungeon), the player must be able to survive [Voltaire's](https://wiki.melvoridle.com/index.php?title=Voltaire) max hit of 713; this could be done with 900 HP, [Auto Eat III](https://wiki.melvoridle.com/index.php?title=Auto_Eat_-_Tier_III), and 50% damage reduction. This is what makes damage reduction so important. [Evasion](https://wiki.melvoridle.com/index.php?title=Combat#Combat_Info) or [Accuracy](https://wiki.melvoridle.com/index.php?title=Combat#Combat_Info) are helpful for minimizing the amount of food needed, but the deciding factor is how big a hit the player can survive.
 
-Obtaining [Finn the Cat](https://wiki.melvoridle.com/index.php?title=Finn,_the_Cat) as a pet gives a bonus 10 hitpoints, which should be taken into account. The [Dragonfire Shield](https://wiki.melvoridle.com/index.php?title=Dragonfire_Shield) gives an additional 30 hitpoints. This gives a maximum of 1030 hitpoints. The [Wasteful Ring](https://wiki.melvoridle.com/index.php?title=Wasteful_Ring) adds 5% to the Auto Eat threshold (for [Auto Eat III](https://wiki.melvoridle.com/index.php?title=Auto_Eat_-_Tier_III), this means a threshold of 45%); at high HP levels, this weighs so heavily on the idling calculation as to make it the most useful ring-slot item, being worth potentially several DR points.
+Obtaining [Finn the Cat](https://wiki.melvoridle.com/index.php?title=Finn,_the_Cat) as a pet gives a bonus 10 hitpoints, which should be taken into account. The [Dragonfire Shield](https://wiki.melvoridle.com/index.php?title=Dragonfire_Shield) gives an additional 30 hitpoints. A potential 130 hitpoints can be gained from [Agility](https://wiki.melvoridle.com/w/Agility) obstacles (see the section on Agility for details). This gives a maximum of 1160 hitpoints. The [Wasteful Ring](https://wiki.melvoridle.com/index.php?title=Wasteful_Ring) adds 5% to the Auto Eat threshold (for [Auto Eat III](https://wiki.melvoridle.com/index.php?title=Auto_Eat_-_Tier_III), this means a threshold of 45%); at high HP levels, this weighs so heavily on the idling calculation as to make it the most useful ring-slot item, being worth potentially several DR points.
 
 ## Combat Triangle
 
@@ -75,21 +76,38 @@ After completing [Into the Mist](https://wiki.melvoridle.com/index.php?title=Int
 |---|---|---|---|
 |[Guardian Amulet](https://wiki.melvoridle.com/index.php?title=Guardian_Amulet)|5%|*None*|*None*|
 
+### Agility
+
+Only one [Agility](https://wiki.melvoridle.com/w/Agility) obstacle increases damage reduction:
+
+|Slot|Name|Reduction|
+|---|---|---|
+|6|Lake Swim|1%|
+
+However, this means not using Rocky Waters (+50 HP) in Slot 6, which at all levels increases the survivable max hit more than the 1% damage reduction bonus. When trying to maximize the survivable hit, Rocky Waters is always better than Lake Swim.
+
+The maximum HP bonus from obstacles is 130, however, this comes at the cost of -4% DR. Mud Dive, the Slot 4 obstacle, trades damage reduction for HP (-4% DR, +20 HP). If the player has less than 520 hitpoints (including other bonuses), Mud Dive actually increases the max survivable hit. If Mud Dive is mastered (halving the negative effect), it increases the maximum survivable hit for players with fewer than 1020 hitpoints. After passing the threshold (520 or 1020), Mud Dive only decreases the max survivable hit, and should be avoided.
+
+Thus, the maximum useful HP bonus from obstacles is 110, considering that most players min-maxing their max survivable hit will be above the Mud Dive threshold.
+
+Agility bonuses/nerfs to auto-eat efficiency affect only the amount healed, not the threshold. This affects only the player's consumption of food, and not the max survivable hit.
+
 ### Pets
 
-Only one [pet](https://wiki.melvoridle.com/index.php?title=Pets), [Leonardo](https://wiki.melvoridle.com/index.php?title=Leonardo) (gained from [Defence](https://wiki.melvoridle.com/index.php?title=Defence)), grants damage reduction.
+Only two [pets](https://wiki.melvoridle.com/index.php?title=Pets) grant damage reduction.
 
-|Name|Reduction|Skill|
+|Name|Reduction|Source|
 |---|---|---|
 |[Leonardo](https://wiki.melvoridle.com/index.php?title=Leonardo)|1%|Defence|
+|[Erran](https://wiki.melvoridle.com/index.php?title=Erran)|1%|Defence|
 
 ### Prayer
 
-At level 88 [Prayer](https://wiki.melvoridle.com/index.php?title=Prayer), [Stone Skin](https://wiki.melvoridle.com/index.php?title=Stone_Skin) can be activated. It costs two prayer points per enemy attack. This is the only prayer that impacts damage reduction.
+At level 88 [Prayer](https://wiki.melvoridle.com/index.php?title=Prayer), [Stone Skin](https://wiki.melvoridle.com/index.php?title=Stone_Skin) can be activated. It costs 3 prayer points per enemy attack. This is the only prayer that impacts damage reduction.
 
 |Prayer|Reduction|Cost|
 |---|---|---|
-|[Stone Skin](https://wiki.melvoridle.com/index.php?title=Stone_Skin)|5%|2|
+|[Stone Skin](https://wiki.melvoridle.com/index.php?title=Stone_Skin)|3%|2|
 
 ### Potions
 
@@ -135,7 +153,7 @@ The [Guardian Amulet](https://wiki.melvoridle.com/index.php?title=Guardian_Amule
 
 ### Gloves
 
-Other gloves are listed as part of Equipment Sets (see below). There are only two pairs of gloves that don't belong to a larger equipment set, and also provide damage reduction. [(U) Black D-hide Vambraces](https://wiki.melvoridle.com/index.php?title=%28U%29_Black_D-hide_Vambraces) are superior to both of these with 5% reduction, but require 70 ranged and do not provide the same attack bonuses.
+Other gloves are listed as part of Equipment Sets (see below). There are only two pairs of gloves that don't belong to a larger equipment set, and also provide damage reduction. [(U) Red D-hide Vambraces](https://wiki.melvoridle.com/index.php?title=%28U%29_Red_D-hide_Vambraces) are superior to both of these with 5% reduction, but require 70 ranged and do not provide the same attack bonuses.
 
 |Item|Reduction|Required Level|Combat Style|
 |---|---|---|---|
@@ -212,7 +230,9 @@ It is unrealistic to do calculations with this percentage reduction, as it relie
 |---|---|---|
 |Passive|[Guardian Amulet](https://wiki.melvoridle.com/index.php?title=Guardian_Amulet)|5%|
 |Pet|[Leonardo](https://wiki.melvoridle.com/index.php?title=Leonardo)|1%|
-|Prayer|[Stone Skin](https://wiki.melvoridle.com/index.php?title=Stone_Skin)|5%|
+|Pet|[Erran](https://wiki.melvoridle.com/index.php?title=Erran)|1%|
+|Agility|[Lake Swim](https://wiki.melvoridle.com/index.php?title=Agility)|1%|
+|Prayer|[Stone Skin](https://wiki.melvoridle.com/index.php?title=Stone_Skin)|3%|
 |Potion|[Damage Reduction Potion IV](https://wiki.melvoridle.com/index.php?title=Damage_Reduction_Potion_IV)|10%|
 |Cape|[Cape of Completion](https://wiki.melvoridle.com/index.php?title=Cape_of_Completion)|5%|
 |Ring|[Guardian Ring](https://wiki.melvoridle.com/index.php?title=Guardian_Ring)|2%|
@@ -236,7 +256,9 @@ A more realistic maximum would use the [Infernal Cape](https://wiki.melvoridle.c
 |---|---|---|
 |Passive|[Guardian Amulet](https://wiki.melvoridle.com/index.php?title=Guardian_Amulet)|5%|
 |Pet|[Leonardo](https://wiki.melvoridle.com/index.php?title=Leonardo)|1%|
-|Prayer|[Stone Skin](https://wiki.melvoridle.com/index.php?title=Stone_Skin)|5%|
+|Pet|[Erran](https://wiki.melvoridle.com/index.php?title=Erran)|1%|
+|Agility|[Lake Swim](https://wiki.melvoridle.com/index.php?title=Agility)|1%|
+|Prayer|[Stone Skin](https://wiki.melvoridle.com/index.php?title=Stone_Skin)|3%|
 |Potion|[Damage Reduction Potion IV](https://wiki.melvoridle.com/index.php?title=Damage_Reduction_Potion_IV)|10%|
 |Cape|[Infernal Cape](https://wiki.melvoridle.com/index.php?title=Infernal_Cape)|4%|
 |Ring|[Guardian Ring](https://wiki.melvoridle.com/index.php?title=Guardian_Ring)|2%|
@@ -257,4 +279,4 @@ A more realistic maximum would use the [Infernal Cape](https://wiki.melvoridle.c
 
 ## Closing
 
-Check out this project on [GitHub](https://github.com/gridster2/Melvor/blob/main/Documents/Compendium%20of%20Damage%20Reduction.md#Introduction). Please add, correct, or suggest anything that comes to mind. See you next update!
+Check out this project on [GitHub](https://github.com/gridster2/Melvor). Please add, correct, or suggest anything that comes to mind. See you next update!
